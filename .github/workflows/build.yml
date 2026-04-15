@@ -2,7 +2,7 @@ name: Build geosite.dat
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       - 'data/**'
       - 'config.json'
