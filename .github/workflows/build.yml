@@ -23,9 +23,9 @@ jobs:
           git clone --depth 1 https://github.com/v2fly/domain-list-community /tmp/dlc
       - name: Build custom
         run: |
+          rm -rf /tmp/dlc/data/*
           cp data/custom.txt /tmp/dlc/data/custom
           cd /tmp/dlc
-          rm -rf /tmp/dlc/data/*
           go run ./ --outputdir=/tmp/output --exportlists=custom
           ls -la /tmp/output/
       - name: Prepare release
