@@ -11,3 +11,6 @@ yandex.com
 yandex.net
 yandex.org
 yandex.ru
+rt.ru
+rtk.ru
+rt-dc.ru
