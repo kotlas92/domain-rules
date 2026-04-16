@@ -25,12 +25,13 @@ jobs:
         run: |
           cp data/custom.txt /tmp/dlc/data/custom
           cd /tmp/dlc
+          rm -rf /tmp/dlc/data/*
           go run ./ --outputdir=/tmp/output --exportlists=custom
           ls -la /tmp/output/
       - name: Prepare release
         run: |
           mkdir -p release
-          cp /tmp/output/custom.txt release/custom.dat
+          cp /tmp/output/custom.dat release/custom.dat
           # sha256 для проверки
           sha256sum release/custom.dat > release/custom.dat.sha256
       - name: Release
