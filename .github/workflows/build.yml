@@ -30,7 +30,7 @@ jobs:
       - name: Prepare release
         run: |
           mkdir -p release
-          cp /tmp/output/dlc.dat release/custom.dat
+          cp /tmp/output/custom.txt release/custom.dat
           # sha256 для проверки
           sha256sum release/custom.dat > release/custom.dat.sha256
       - name: Release
