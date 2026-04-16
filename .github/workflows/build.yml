@@ -25,7 +25,7 @@ jobs:
         run: |
           cp data/custom.txt /tmp/dlc/data/custom.txt
           cd /tmp/dlc
-          go run ./ --outputdir=/tmp/output --exportLists=custom
+          go run ./ --outputdir=/tmp/output --exportLists="custom"
           ls -la /tmp/output/
       - name: Prepare release
         run: |
