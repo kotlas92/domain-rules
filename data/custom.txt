@@ -13,10 +13,12 @@ bcs.ru
 cafemumu.ru
 cbr.ru
 cdek.ru
+centralroad.ru
 cian.ru
 city-mobil.ru
 delimobil.ru
 dodopizza.ru
+drive.travel
 drive2.ru
 drom.ru
 dzen.ru
@@ -58,6 +60,7 @@ sberbank.ru
 stoloto.ru
 tanukifamily.ru
 tbank.ru
+tpass.me
 uralairlines.ru
 userapi.com
 vdnh.ru
