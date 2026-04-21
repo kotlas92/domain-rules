@@ -82,6 +82,7 @@ yandex.com
 yandex.net
 yandex.org
 yandex.ru
+yastatic.net
 yoomoney.ru
 yota.ru
 youdo.com
