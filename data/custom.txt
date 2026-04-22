@@ -2,6 +2,7 @@
 5ka.ru
 alfabank.ru
 amwine.ru
+api.ipify.org
 auto.ru
 av.ru
 avangard.ru
@@ -12,6 +13,7 @@ bcs-express.ru
 bcs.ru
 cafemumu.ru
 cbr.ru
+checkip.amazonaws.com
 cdek.ru
 centralroad.ru
 cian.ru
@@ -30,6 +32,7 @@ gosuslugi.ru
 gov.ru
 gu-st.ru
 hh.ru
+ifconfig.me
 kinopoisk.ru
 koronapay.com
 krasnoeibeloe.ru
