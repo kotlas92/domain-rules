@@ -32,7 +32,10 @@ gosuslugi.ru
 gov.ru
 gu-st.ru
 hh.ru
+icanhazip.com
 ifconfig.me
+ipify.org
+ipinfo.io
 kinopoisk.ru
 koronapay.com
 krasnoeibeloe.ru
