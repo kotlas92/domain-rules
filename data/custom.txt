@@ -32,7 +32,6 @@ gosuslugi.ru
 gov.ru
 gu-st.ru
 hh.ru
-httpbin.org
 icanhazip.com
 ifconfig.me
 ipify.org
