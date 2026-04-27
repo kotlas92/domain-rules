@@ -1,3 +1,4 @@
+2gis.com
 2gis.ru
 5ka.ru
 alfabank.ru
@@ -58,6 +59,7 @@ pandora-system.ru
 papajohns.ru
 pickpoint.ru
 pochtabank.ru
+rambler.ru
 rosdomofon.com
 rosdomofon.ru
 rsb.ru
@@ -67,6 +69,7 @@ rt.ru
 rtk.ru
 rutube.ru
 rzd.ru
+samokat.ru
 sber.ru
 sberbank.ru
 stoloto.ru
@@ -85,6 +88,7 @@ vkvideo.ru
 vtb.com
 vtb.ru
 wb.ru
+weborama-tech.ru
 wildberries.ru
 winelab.ru
 x5.ru
