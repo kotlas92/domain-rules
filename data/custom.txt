@@ -76,6 +76,7 @@ rzd.ru
 samokat.ru
 sber.ru
 sberbank.ru
+serving-sys.ru
 stoloto.ru
 tanukifamily.ru
 tbank.ru
@@ -98,11 +99,14 @@ winelab.ru
 x5.ru
 ya.ru
 yakitoriya.ru
+yandex.cloud
 yandex.com
 yandex.net
 yandex.org
 yandex.ru
+yandexcloud.net
 yastatic.net
+yastatic-net.ru
 yoomoney.ru
 yota.ru
 youdo.com
