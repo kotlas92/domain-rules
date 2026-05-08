@@ -1,6 +1,7 @@
 2gis.com
 2gis.ru
 5ka.ru
+aeroflot.ru
 alfabank.ru
 amwine.ru
 api.ipify.org
@@ -22,6 +23,7 @@ city-mobil.ru
 delimobil.ru
 dodopizza.ru
 drive.travel
+driver.ru
 drive2.ru
 drom.ru
 dzen.ru
