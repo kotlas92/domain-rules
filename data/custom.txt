@@ -5,6 +5,7 @@ aeroflot.ru
 alfabank.ru
 amwine.ru
 api.ipify.org
+api.ozon.ru
 auto.ru
 av.ru
 avangard.ru
@@ -41,6 +42,7 @@ hitmoz.com
 hitmoz.org
 hitmoz.ru
 ifconfig.me
+ir.ozone.ru
 kinopoisk.ru
 koronapay.com
 krasnoeibeloe.ru
@@ -64,6 +66,7 @@ ozon.ru
 ozonusercontent.com
 ozone.ru
 p-on.ru
+p.ozon.ru
 pandora-alarm.ru
 pandora-system.ru
 papajohns.ru
