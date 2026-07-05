@@ -4,6 +4,7 @@
 aeroflot.ru
 alfabank.ru
 amwine.ru
+api.auth.2gis.com
 api.ipify.org
 api.ozon.ru
 appmetrica.yandex.net
@@ -19,6 +20,7 @@ cafemumu.ru
 cbr.ru
 cbrpay.ru
 cdn-tinkoff.ru
+checkin.2gis.com
 checkip.amazonaws.com
 cdek.ru
 centralroad.ru
@@ -38,6 +40,7 @@ emias.info
 exist.ru
 flypobeda.ru
 gazprombank.ru
+glp.api.2gis.com
 gorparkovki.ru
 gosuslugi.ru
 gov.ru
@@ -46,6 +49,7 @@ hh.ru
 hitmoz.com
 hitmoz.org
 hitmoz.ru
+hybrid.api.2gis.com
 ifconfig.me
 ir.ozone.ru
 kinopoisk.ru
@@ -144,3 +148,4 @@ yoomoney.ru
 yota.ru
 youdo.com
 youla.ru
+zond.api.2gis.ru
