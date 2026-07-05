@@ -83,6 +83,7 @@ parking.mos.ru
 pickpoint.ru
 pochtabank.ru
 rambler.ru
+relay-api.eu.2gis.com
 rosdomofon.com
 rosdomofon.ru
 rosguard.gov.ru
