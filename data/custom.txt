@@ -6,6 +6,7 @@ alfabank.ru
 amwine.ru
 api.ipify.org
 api.ozon.ru
+appmetrica.yandex.net
 auto.ru
 av.ru
 avangard.ru
@@ -60,6 +61,7 @@ max.ru
 mediomodo.ru
 miratorg.ru
 mos.ru
+mosmetro.edna.io
 mosparking.ru
 mts.ru
 nalog.ru
@@ -76,6 +78,7 @@ p.ozon.ru
 pandora-alarm.ru
 pandora-system.ru
 papajohns.ru
+parking.mos.ru
 pickpoint.ru
 pochtabank.ru
 rambler.ru
