@@ -8,6 +8,7 @@ api.auth.2gis.com
 api.ipify.org
 api.ozon.ru
 appmetrica.yandex.net
+apptracer.ru
 auto.ru
 av.ru
 avangard.ru
@@ -105,6 +106,7 @@ sberbank.ru
 serving-sys.ru
 sirena-travel.ru
 stoloto.ru
+studilka.ru
 tanukifamily.ru
 tbank.ru
 t-bank-app.ru
@@ -120,8 +122,10 @@ vdnh.ru
 vk.com
 vk.me
 vk.ru
+vk-analytics.ru
 vkusnoitochka.ru
 vkusvill.ru
+vkuserphoto.ru
 vkvideo.ru
 vtb.com
 vtb.ru
