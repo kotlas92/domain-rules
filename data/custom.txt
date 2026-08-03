@@ -86,6 +86,7 @@ pandora-alarm.ru
 pandora-system.ru
 papajohns.ru
 parking.mos.ru
+perekrestok.ru
 pickpoint.ru
 pochtabank.ru
 rambler.ru
@@ -139,6 +140,8 @@ wibes.ru
 wildberries.ru
 winelab.ru
 x5.ru
+x5media.ru
+x5static.net
 ya.ru
 yakitoriya.ru
 yandex.cloud
