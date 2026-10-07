@@ -6,6 +6,7 @@ alfabank.ru
 amwine.ru
 api.auth.2gis.com
 api.ipify.org
+api.oneme.ru
 api.ozon.ru
 appmetrica.yandex.net
 apptracer.ru
@@ -54,6 +55,7 @@ hitmoz.com
 hitmoz.org
 hitmoz.ru
 hybrid.api.2gis.com
+i.oneme.ru
 ifconfig.me
 ir.ozone.ru
 kinopoisk.ru
@@ -107,8 +109,10 @@ rzd.ru
 samokat.ru
 sber.ru
 sberbank.ru
+sdk-api.apptracer.ru
 serving-sys.ru
 sirena-travel.ru
+st.max.ru
 stoloto.ru
 studilka.ru
 tanukifamily.ru
@@ -138,6 +142,7 @@ wb.ru
 wbbasket.ru
 wbcontent.net
 wb-basket.ru
+web.max.ru
 weborama-tech.ru
 wibes.ru
 wildberries.ru
